@@ -11,9 +11,9 @@ instrucciones en español para instalar y trabajar con rust en vs code
 
 4- abrir una ventana de consola en vs code y verificar la instlacion de rust en el sistema con este comando:  rustc --version 
 
-5- ejecutar cargo  tienen que poner con ejecutable: cargo new <nombre del directorio> --bin
+5- ejecutar cargo  tienen que poner con ejecutable: cargo new "nombre del directorio" --bin
 
-6- entrar por consola a ese directorio cd nuevoProyecto
+6- entrar por consola a ese directorio o carpeta "cd nuevoProyecto" sino no ejecutara los comandos, principalmente el cargo run.
 
 7- cargo build (compilara y ejecutara el archivo )
 
